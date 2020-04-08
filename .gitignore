@@ -2,3 +2,4 @@
 *download/
 *.ipynb_checkpoints/
 *.ipynb
+*springer_books/
