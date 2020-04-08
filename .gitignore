@@ -1,1 +1,4 @@
 *__pycache__
+*download/
+*.ipynb_checkpoints/
+*.ipynb
